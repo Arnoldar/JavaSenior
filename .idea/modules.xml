@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" filepath="$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0513/day0513.iml" filepath="$PROJECT_DIR$/day0513/day0513.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0601/day0601.iml" filepath="$PROJECT_DIR$/day0601/day0601.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0606/day0606.iml" filepath="$PROJECT_DIR$/day0606/day0606.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0607/day0607.iml" filepath="$PROJECT_DIR$/day0607/day0607.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0609/day0609.iml" filepath="$PROJECT_DIR$/day0609/day0609.iml" />
+    </modules>
+  </component>
+</project>
